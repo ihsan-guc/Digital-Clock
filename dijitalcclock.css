@@ -1,0 +1,17 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right,#F0F8FF,pink);
+}
+#demo
+{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+    font-synthesis: inherit;
+    text-align: center;
+    margin:300px 550px;
+    border-radius: 13px;
+    background: linear-gradient(to right,pink,#F0F8FF);
+}
